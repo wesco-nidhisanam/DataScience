@@ -1,1 +1,1 @@
-Google adk sample codes
+Document Extraction sample codes
